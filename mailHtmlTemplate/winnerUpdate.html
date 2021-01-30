@@ -1,0 +1,29 @@
+<!--Email to Participant-->
+
+<h2 align="center">Congratulation You Won!</h2>
+<h3>Contest Detail :</h3>
+<ul>
+  <li>Title: ${contest2.title}</li>
+  <li>Prize: ${contest2.prize}</li>
+</ul>
+<p>The prize will be bank-in to your account within 7 days.\nRemember to update your account detail in your profile.\n</p>
+<p>Regards,</p>
+<p>RealizDea</p>
+
+<!--Email to Admin-->
+
+<h2 align="center">Proceed to Payment! </h2>
+<h3>Contest Detail :</h3>
+<ul>
+  <li>Title: ${contest2.title}</li>
+  <li>Prize: ${contest2.prize}</li>
+</ul>
+<h3>Winner Detail :</h3>
+<ul>
+  <li>Winner: ${winner.fullname}</li>
+  <li>Bank: ${winner.bank} ${winner.account_number}</li>
+  <li>Amount: ${contest2.prize}</li>
+</ul>
+<p>Please make the payment to the winner within 7 days.</p>
+<p>Regards,</p>
+<p>RealizDea</p>
