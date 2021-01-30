@@ -14,7 +14,7 @@ The APIs are divided into 4 main routes:
 3. Payment
 4. Admin
 
-The documentation of all the API can be found in [here] (https://documenter.getpostman.com/view/13706159/TVzUEwrf#af3d1ab8-c2f3-44e1-9ccf-788f7a36b282)
+The documentation of all the API can be found in [here](https://documenter.getpostman.com/view/13706159/TVzUEwrf#af3d1ab8-c2f3-44e1-9ccf-788f7a36b282)
 
 ### Several Feature
 - User Login and Register
